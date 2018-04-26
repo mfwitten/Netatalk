@@ -179,7 +179,7 @@ AC_NETATALK_REALPATH
 dnl Check for sendfile()
 AC_NETATALK_SENDFILE
 
-dnl Check whether bundled libevent shall not be used
+dnl Check for libevent
 AC_NETATALK_LIBEVENT
 
 dnl Check whether bundled tdb shall be used
